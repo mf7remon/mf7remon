@@ -1,5 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Md Salim Hasan Riad</h1>
+<h1 align="center">Hi 👋, I'm Md Fazlay Rabby Remon</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" />
 
@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/salimhasanriad" target="blank"><img src="https://img.shields.io/twitter/follow/salimhasanriad?logo=twitter&style=for-the-badge" alt="salimhasanriad" /></a> </p>
 
-- 🔭 I’m currently working on **MERN eCommerce**
-
 - 🌱 I’m currently learning **React, React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.iamselim.com](https://www.iamselim.com)
+- 💬 Ask me about **C,C++,CSS, JavaScript**
 
-- 💬 Ask me about **PHP, Laravel, JavaScript, React, React Native, Vue js**
-
-- 📫 How to reach me **salimhasanriad@gmail.com**
+- 📫 How to reach me **rmf8395@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
