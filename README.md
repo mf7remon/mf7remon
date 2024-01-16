@@ -15,12 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/salim66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="salim66" height="30" width="40" /></a>
-<a href="https://twitter.com/salimhasanriad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salimhasanriad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salim66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salim66" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12977132/md-salim-hasan-riad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12977132/md-salim-hasan-riad" height="30" width="40" /></a>
-<a href="https://fb.com/salimhasan.riad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salimhasan.riad" height="30" width="40" /></a>
-<a href="https://instagram.com/mdsalimhasanriad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsalimhasanriad" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/793334"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mf7remon" height="30" width="40" /></a>
+<a href="https://twitter.com/mf7remon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mf7remon" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/mf.remon.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mf.remon.14" height="30" width="40" /></a>
+<a href="https://www.instagram.com/remon_mf_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="remon_mf_7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
