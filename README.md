@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 💬 Ask me about **C,C++,CSS, JavaScript**
+- 💬 Ask me about **C,C++,Java, JavaScript,SQL**
 
 - 📫 How to reach me **rmf8395@gmail.com**
 
